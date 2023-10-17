@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- TODO change your app's name here-->
+    <string name="app_name">CareerMentor</string>
+
+    <!-- TODO your Firebase Realtime Database URL-->
+    <string name="database_url">https://chatapplication-2891f-default-rtdb.firebaseio.com</string>
+
+    <string-array name="roles_array">
+        <item>Student</item>
+        <item>Mentor</item>
+    </string-array>
+    <string name="database_url1">YOUR_DATABASE_URL</string>
+
+</resources>

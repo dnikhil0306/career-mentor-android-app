@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675275482424",
+    "project_id": "chatapplication-2891f",
+    "storage_bucket": "chatapplication-2891f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675275482424:android:79f46950f571519988cdcd",
+        "android_client_info": {
+          "package_name": "com.learnoset.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675275482424-eeon7h7nv9mid1e6tsgv255o4r9viokq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2RnBTwJwPAjL96O4wWygAquv2mwG1naY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675275482424-eeon7h7nv9mid1e6tsgv255o4r9viokq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
